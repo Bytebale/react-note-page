@@ -1,0 +1,17 @@
+.myInput {
+    /*width: 100%;*/
+    /*padding: 5px 15px;*/
+    /*margin: 5px 0;*/
+    /*border: 1px solid teal;*/
+
+    box-sizing: border-box;
+
+    /*position: absolute;*/
+    width: 100%;
+    padding: 5px 15px;
+    margin: 5px 0;
+    height: 36px;
+    background: #F6F6F6;
+    border: 1px solid teal;
+    border-radius: 60px;
+}
