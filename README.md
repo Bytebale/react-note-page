@@ -1,7 +1,7 @@
 # Note Page
 React SPA позволяет создавать посты и описание к ним
 ![main](https://github.com/Bytebale/react-note-page/blob/main/public/screenshots/mainPage.png)
-## Преимущества проека
+## Преимущества проекта
 1. Работа с состяоянием (useState)
 2. Создание кастомного хука usePost для декомпозиции
 3. Преобразование массива объектов в массив React элементов
